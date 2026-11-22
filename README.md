@@ -1,3 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
 My name is Lexington Carson, I am a 23 year old born and raised in New York. I received my undergraduate degree from Walsh University in Design and Marketing. After working within this space, I grew a love for product design and development specifically for homeware or beauty. Other fun facts about me are that I have played lacrosse for 14 years of my life. With this I was fortunate enough to play in college at the DII level and make great memories and meet amazing people. Furthermore, I have a love for travel and have moved overseas to New Zealand to push myself out of my comfort zone and gain new experience. 
